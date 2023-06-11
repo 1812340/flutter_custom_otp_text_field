@@ -1,16 +1,1 @@
-# custom_text_field
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![custom_opt_text_field](https://github.com/1812340/flutter_custom_otp_text_field/assets/75122165/6b0287d0-38f8-4137-b0ac-2f5a22343f2c)
